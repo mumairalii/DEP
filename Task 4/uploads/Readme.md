@@ -1,1 +1,1 @@
-this folder will contain the uoloaded file
+this folder will contain the uploaded file
